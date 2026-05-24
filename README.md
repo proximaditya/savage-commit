@@ -57,9 +57,9 @@ python main.py
 
 This is an open-source project and we want your pull requests! We are actively looking for contributors to help build these upcoming features:
 
-- [ ] **Multi-Model Support:** Add fallback options for Gemini, OpenAI, and Claude APIs.
-- [ ] **Global CLI Setup:** Package the script so users can just run `savage` from anywhere on their OS.
-- [ ] **Git Hook Integration:** Make it run automatically on `git commit`.
+-  **Multi-Model Support:** Add fallback options for Gemini, OpenAI, and Claude APIs.
+-  **Global CLI Setup:** Package the script so users can just run `savage` from anywhere on their OS.
+-  **Git Hook Integration:** Make it run automatically on `git commit`.
 
 ### How to contribute:
 

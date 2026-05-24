@@ -73,6 +73,6 @@ This is an open-source project and we want your pull requests! We are actively l
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information. 
+Distributed under the MIT License. See [`LICENSE`](https://github.com/proximaditya/savage-commit?tab=MIT-1-ov-file) for more information. 
 
 *Disclaimer: Don't blame us if the AI hurts your feelings.*

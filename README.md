@@ -60,6 +60,7 @@ This is an open-source project and we want your pull requests! We are actively l
 -  **Multi-Model Support:** Add fallback options for Gemini, OpenAI, and Claude APIs.
 -  **Global CLI Setup:** Package the script so users can just run `savage` from anywhere on their OS.
 -  **Git Hook Integration:** Make it run automatically on `git commit`.
+-  **Dynamic Roast Modes & Terminal GIFs:** Add different roasting personalities and pop-up ASCII/Terminal GIFs based on how bad the code is!
 
 ### How to contribute:
 
